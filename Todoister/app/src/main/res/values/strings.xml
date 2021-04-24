@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">∈Task</string>
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">e.g., Eat less at dinner</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Due Date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_wknd">This Weekend</string>
+    <string name="next_week">Next Week</string>
+    <string name="radio_high">High</string>
+    <string name="radio_med">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">
+        <b><i>∈Task Clone App -- version 0.1</i></b> <br/><br/>
+        <b>∈Task</b> is a Task Management app. You can easily set a task and can delete it easily whenever it has completed.
+        The user interface is really very cool and user-friendly as well.
+    </string>
+    <string name="add_todos">Add a Todo...</string>
+    <string name="email_a_copy">Email a Copy</string>
+    <string name="todo_text">Todo Text Here</string>
+    <string name="save_button">Save Button</string>
+    <string name="empty_task_stext">Enter something</string>
+    <string name="deleted_succesfully_message">Task Has Deleted Successfully!</string>
+    <string name="restored_task_text">Restored Successfully!</string>
+</resources>

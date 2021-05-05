@@ -49,3 +49,11 @@ Add login, logout functionalities, and add a particular session for a different 
 Add alarm system. Whenever a particular task has exceeded the due date then notify the user about it by ringing the android for a certain amount of time.
 Improve UI.
 
+
+# Snapshots
+
+![WhatsApp Image 2021-05-04 at 8 52 02 PM](https://user-images.githubusercontent.com/58872658/117035407-e73d1c80-ad21-11eb-9b39-f704fe486176.jpeg)
+![WhatsApp Image 2021-05-04 at 8 52 02 PM (1)](https://user-images.githubusercontent.com/58872658/117035414-ead0a380-ad21-11eb-80ce-5d2beafd587d.jpeg)
+![WhatsApp Image 2021-05-04 at 8 52 03 PM](https://user-images.githubusercontent.com/58872658/117035420-ec9a6700-ad21-11eb-9454-7b9b961522c7.jpeg)
+
+
